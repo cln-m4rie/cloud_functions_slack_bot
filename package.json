@@ -1,0 +1,24 @@
+{
+  "name": "cloud_functions_slack_bot",
+  "version": "1.0.0",
+  "description": "## Setup",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cln-m4rie/cloud_functions_slack_bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cln-m4rie/cloud_functions_slack_bot/issues"
+  },
+  "homepage": "https://github.com/cln-m4rie/cloud_functions_slack_bot#readme"
+}
